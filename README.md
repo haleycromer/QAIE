@@ -201,12 +201,19 @@ In this civilization:
 📦 Requirements
 
 numpy
+
 scipy
+
 torch
+
 torchaudio
+
 matplotlib
+
 seaborn
+
 jupyter
+
 
 
 

@@ -2,7 +2,7 @@
 
 > “The universe speaks in vibrations. QAIE listens, interprets, and evolves.”  
 
-![QAIE Banner](https://raw.githubusercontent.com/haleycromer/QAIE/main/assets/banner.png)  
+📳  
 
 QAIE is a **next-generation framework** integrating acoustics, quantum mechanics, AI, and distributed intelligence into a **self-evolving auditory perception system**.  
 It allows machines to **listen, interpret, and act** on multi-modal vibrational data.  
@@ -113,4 +113,5 @@ torchaudio
 matplotlib
 seaborn
 jupyter
+
 

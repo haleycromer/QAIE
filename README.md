@@ -90,6 +90,10 @@ for step in range(5):
     print(f"Step {step+1} Output:", output.detach().numpy()[0])
 ri.reset()
 
+```bash
+pip install -r requirements.txt
+```
+
 🌌 Features in Action
 <details>
 <summary>Click to expand: Visual Examples</summary>
@@ -189,6 +193,7 @@ torchaudio
 matplotlib
 seaborn
 jupyter
+
 
 
 

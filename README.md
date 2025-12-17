@@ -95,8 +95,6 @@ pip install -r requirements.txt
 ```
 
 🌌 Features in Action
-<details>
-<summary>Click to expand: Visual Examples</summary>
 
 Recursive Latent Evolution
 
@@ -193,6 +191,7 @@ torchaudio
 matplotlib
 seaborn
 jupyter
+
 
 
 

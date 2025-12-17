@@ -73,10 +73,10 @@ QAIE/
 ```bash
 pip install -r requirements.txt
 
-### 2️⃣ Run Training
+2️⃣ Run Training
 python train.py
 
-### 3️⃣ Run Recursive Interference Demo
+3️⃣ Run Recursive Interference Demo
 
 from dataset.multimodal_synthetic import generate_multimodal_event
 from preprocessing.tensor_fusion import multimodal_tensor
@@ -92,7 +92,7 @@ for step in range(5):
     print(f"Step {step+1} Output:", output.detach().numpy()[0])
 ri.reset()
 
-### 🌌 Features in Action
+🌌 Features in Action
 <details>
 <summary>Click to expand: Visual Examples</summary>
 
@@ -104,7 +104,7 @@ Emotion Feature Mapping
 
 </details>
 
-### 📦 Requirements
+📦 Requirements
 
 numpy
 scipy
@@ -113,5 +113,6 @@ torchaudio
 matplotlib
 seaborn
 jupyter
+
 
 

@@ -69,14 +69,14 @@ QAIE/
 
 ## ⚡ Quick Start (Colab / Local)
 
-### 1️⃣ Install Requirements
+### Install Requirements
 ```bash
 pip install -r requirements.txt
 
-2️⃣ Run Training
+1️⃣ Run Training
 python train.py
 
-3️⃣ Run Recursive Interference Demo
+2️⃣ Run Recursive Interference Demo
 
 from dataset.multimodal_synthetic import generate_multimodal_event
 from preprocessing.tensor_fusion import multimodal_tensor
@@ -113,6 +113,7 @@ torchaudio
 matplotlib
 seaborn
 jupyter
+
 
 
 
